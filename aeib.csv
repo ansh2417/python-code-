@@ -1,0 +1,318 @@
+Account Number,Customer Name,State,Branch Code,Branch Manager,Balance,Has Loan,Loan Amount,Interest,EMI Status
+10001,Customer_10001,Maharashtra,AEIB-MH,Rajesh Sharma,48567,False,0,0.0,N/A
+10002,Customer_10002,Maharashtra,AEIB-MH,Rajesh Sharma,181963,False,0,0.0,N/A
+10003,Customer_10003,Maharashtra,AEIB-MH,Rajesh Sharma,102639,True,136293,10903.44,Paying
+10004,Customer_10004,Maharashtra,AEIB-MH,Rajesh Sharma,117420,True,360744,28859.52,Paying
+10005,Customer_10005,Maharashtra,AEIB-MH,Rajesh Sharma,57620,True,475446,38035.68,Not Paying
+10006,Customer_10006,Maharashtra,AEIB-MH,Rajesh Sharma,113631,True,413345,33067.6,Not Paying
+10007,Customer_10007,Maharashtra,AEIB-MH,Rajesh Sharma,87457,True,450137,36010.96,Paying
+10008,Customer_10008,Maharashtra,AEIB-MH,Rajesh Sharma,72699,True,57877,4630.16,Paying
+10009,Customer_10009,Maharashtra,AEIB-MH,Rajesh Sharma,137943,False,0,0.0,N/A
+10010,Customer_10010,Maharashtra,AEIB-MH,Rajesh Sharma,184026,True,81921,6553.68,Not Paying
+10011,Customer_10011,Maharashtra,AEIB-MH,Rajesh Sharma,136869,False,0,0.0,N/A
+10012,Customer_10012,Maharashtra,AEIB-MH,Rajesh Sharma,127144,True,134665,10773.2,Not Paying
+10013,Customer_10013,Maharashtra,AEIB-MH,Rajesh Sharma,46504,True,435175,34814.0,Not Paying
+10014,Customer_10014,Maharashtra,AEIB-MH,Rajesh Sharma,16723,False,0,0.0,N/A
+10015,Customer_10015,Maharashtra,AEIB-MH,Rajesh Sharma,63146,True,240372,19229.760000000002,Not Paying
+10016,Customer_10016,Maharashtra,AEIB-MH,Rajesh Sharma,76557,False,0,0.0,N/A
+10017,Customer_10017,Maharashtra,AEIB-MH,Rajesh Sharma,66713,False,0,0.0,N/A
+10018,Customer_10018,Maharashtra,AEIB-MH,Rajesh Sharma,51522,False,0,0.0,N/A
+10019,Customer_10019,Maharashtra,AEIB-MH,Rajesh Sharma,25737,False,0,0.0,N/A
+10020,Customer_10020,Maharashtra,AEIB-MH,Rajesh Sharma,197425,False,0,0.0,N/A
+10021,Customer_10021,Maharashtra,AEIB-MH,Rajesh Sharma,17134,False,0,0.0,N/A
+10022,Customer_10022,Maharashtra,AEIB-MH,Rajesh Sharma,91107,False,0,0.0,N/A
+10023,Customer_10023,Maharashtra,AEIB-MH,Rajesh Sharma,187883,True,77257,6180.56,Paying
+10024,Customer_10024,Maharashtra,AEIB-MH,Rajesh Sharma,17372,False,0,0.0,N/A
+10025,Customer_10025,Maharashtra,AEIB-MH,Rajesh Sharma,116366,True,112079,8966.32,Paying
+10026,Customer_10026,Maharashtra,AEIB-MH,Rajesh Sharma,143084,True,316062,25284.96,Not Paying
+10027,Customer_10027,Maharashtra,AEIB-MH,Rajesh Sharma,121372,True,196199,15695.92,Not Paying
+10028,Customer_10028,Maharashtra,AEIB-MH,Rajesh Sharma,106261,False,0,0.0,N/A
+10029,Customer_10029,Maharashtra,AEIB-MH,Rajesh Sharma,13752,True,261113,20889.04,Not Paying
+10030,Customer_10030,Maharashtra,AEIB-MH,Rajesh Sharma,55624,False,0,0.0,N/A
+10031,Customer_10031,Maharashtra,AEIB-MH,Rajesh Sharma,98790,True,283138,22651.04,Paying
+10032,Customer_10032,Maharashtra,AEIB-MH,Rajesh Sharma,129834,False,0,0.0,N/A
+10033,Customer_10033,Maharashtra,AEIB-MH,Rajesh Sharma,89355,True,378653,30292.24,Paying
+10034,Customer_10034,Maharashtra,AEIB-MH,Rajesh Sharma,29777,True,309978,24798.24,Paying
+10035,Customer_10035,Maharashtra,AEIB-MH,Rajesh Sharma,148915,True,301579,24126.32,Paying
+10036,Customer_10036,Maharashtra,AEIB-MH,Rajesh Sharma,11521,True,386803,30944.24,Paying
+10037,Customer_10037,Maharashtra,AEIB-MH,Rajesh Sharma,113483,False,0,0.0,N/A
+10038,Customer_10038,Maharashtra,AEIB-MH,Rajesh Sharma,56939,False,0,0.0,N/A
+10039,Customer_10039,Maharashtra,AEIB-MH,Rajesh Sharma,159382,True,130577,10446.16,Paying
+10040,Customer_10040,Maharashtra,AEIB-MH,Rajesh Sharma,159378,True,390840,31267.2,Not Paying
+10041,Customer_10041,Maharashtra,AEIB-MH,Rajesh Sharma,103611,False,0,0.0,N/A
+10042,Customer_10042,Maharashtra,AEIB-MH,Rajesh Sharma,75838,True,418915,33513.2,Paying
+10043,Customer_10043,Gujarat,AEIB-GJ,Priya Mehta,116987,True,404792,32383.36,Not Paying
+10044,Customer_10044,Gujarat,AEIB-GJ,Priya Mehta,84128,False,0,0.0,N/A
+10045,Customer_10045,Gujarat,AEIB-GJ,Priya Mehta,13286,False,0,0.0,N/A
+10046,Customer_10046,Gujarat,AEIB-GJ,Priya Mehta,135317,True,63640,5091.2,Not Paying
+10047,Customer_10047,Gujarat,AEIB-GJ,Priya Mehta,181735,True,71752,5740.16,Paying
+10048,Customer_10048,Gujarat,AEIB-GJ,Priya Mehta,64715,False,0,0.0,N/A
+10049,Customer_10049,Gujarat,AEIB-GJ,Priya Mehta,189078,True,287507,23000.56,Not Paying
+10050,Customer_10050,Gujarat,AEIB-GJ,Priya Mehta,59268,False,0,0.0,N/A
+10051,Customer_10051,Gujarat,AEIB-GJ,Priya Mehta,73473,True,223584,17886.72,Paying
+10052,Customer_10052,Gujarat,AEIB-GJ,Priya Mehta,97309,False,0,0.0,N/A
+10053,Customer_10053,Gujarat,AEIB-GJ,Priya Mehta,112984,False,0,0.0,N/A
+10054,Customer_10054,Gujarat,AEIB-GJ,Priya Mehta,188158,True,326051,26084.08,Not Paying
+10055,Customer_10055,Gujarat,AEIB-GJ,Priya Mehta,146160,True,350539,28043.12,Not Paying
+10056,Customer_10056,Gujarat,AEIB-GJ,Priya Mehta,125953,True,93295,7463.6,Not Paying
+10057,Customer_10057,Gujarat,AEIB-GJ,Priya Mehta,121551,True,460191,36815.28,Not Paying
+10058,Customer_10058,Gujarat,AEIB-GJ,Priya Mehta,151984,True,327259,26180.72,Paying
+10059,Customer_10059,Gujarat,AEIB-GJ,Priya Mehta,84983,True,301009,24080.72,Not Paying
+10060,Customer_10060,Gujarat,AEIB-GJ,Priya Mehta,16052,False,0,0.0,N/A
+10061,Customer_10061,Gujarat,AEIB-GJ,Priya Mehta,62368,True,317247,25379.760000000002,Not Paying
+10062,Customer_10062,Gujarat,AEIB-GJ,Priya Mehta,40050,True,193651,15492.08,Paying
+10063,Customer_10063,Gujarat,AEIB-GJ,Priya Mehta,116614,False,0,0.0,N/A
+10064,Customer_10064,Gujarat,AEIB-GJ,Priya Mehta,138847,True,401243,32099.440000000002,Paying
+10065,Customer_10065,Gujarat,AEIB-GJ,Priya Mehta,76892,False,0,0.0,N/A
+10066,Customer_10066,Gujarat,AEIB-GJ,Priya Mehta,33651,False,0,0.0,N/A
+10067,Customer_10067,Gujarat,AEIB-GJ,Priya Mehta,103927,True,113003,9040.24,Not Paying
+10068,Customer_10068,Gujarat,AEIB-GJ,Priya Mehta,170081,True,329726,26378.08,Paying
+10069,Customer_10069,Gujarat,AEIB-GJ,Priya Mehta,89917,True,388467,31077.36,Not Paying
+10070,Customer_10070,Gujarat,AEIB-GJ,Priya Mehta,65809,False,0,0.0,N/A
+10071,Customer_10071,Gujarat,AEIB-GJ,Priya Mehta,139958,False,0,0.0,N/A
+10072,Customer_10072,Gujarat,AEIB-GJ,Priya Mehta,80523,False,0,0.0,N/A
+10073,Customer_10073,Gujarat,AEIB-GJ,Priya Mehta,131346,True,132119,10569.52,Not Paying
+10074,Customer_10074,Gujarat,AEIB-GJ,Priya Mehta,141253,False,0,0.0,N/A
+10075,Customer_10075,Gujarat,AEIB-GJ,Priya Mehta,178986,True,244792,19583.36,Not Paying
+10076,Customer_10076,Gujarat,AEIB-GJ,Priya Mehta,125868,True,359538,28763.04,Not Paying
+10077,Customer_10077,Gujarat,AEIB-GJ,Priya Mehta,5894,True,491424,39313.92,Paying
+10078,Customer_10078,Gujarat,AEIB-GJ,Priya Mehta,37904,True,371745,29739.600000000002,Paying
+10079,Customer_10079,Gujarat,AEIB-GJ,Priya Mehta,117931,False,0,0.0,N/A
+10080,Customer_10080,Gujarat,AEIB-GJ,Priya Mehta,87088,False,0,0.0,N/A
+10081,Customer_10081,Gujarat,AEIB-GJ,Priya Mehta,115768,False,0,0.0,N/A
+10082,Customer_10082,Gujarat,AEIB-GJ,Priya Mehta,62191,False,0,0.0,N/A
+10083,Customer_10083,Karnataka,AEIB-KA,Amit Verma,27302,False,0,0.0,N/A
+10084,Customer_10084,Karnataka,AEIB-KA,Amit Verma,57513,True,169005,13520.4,Paying
+10085,Customer_10085,Karnataka,AEIB-KA,Amit Verma,25989,True,206556,16524.48,Paying
+10086,Customer_10086,Karnataka,AEIB-KA,Amit Verma,97925,True,61605,4928.400000000001,Not Paying
+10087,Customer_10087,Karnataka,AEIB-KA,Amit Verma,131503,True,438510,35080.8,Not Paying
+10088,Customer_10088,Karnataka,AEIB-KA,Amit Verma,126542,False,0,0.0,N/A
+10089,Customer_10089,Karnataka,AEIB-KA,Amit Verma,112356,True,214273,17141.84,Not Paying
+10090,Customer_10090,Karnataka,AEIB-KA,Amit Verma,93157,False,0,0.0,N/A
+10091,Customer_10091,Karnataka,AEIB-KA,Amit Verma,49889,True,391979,31358.32,Not Paying
+10092,Customer_10092,Karnataka,AEIB-KA,Amit Verma,21363,False,0,0.0,N/A
+10093,Customer_10093,Karnataka,AEIB-KA,Amit Verma,68418,True,247648,19811.84,Paying
+10094,Customer_10094,Karnataka,AEIB-KA,Amit Verma,62508,True,384452,30756.16,Not Paying
+10095,Customer_10095,Karnataka,AEIB-KA,Amit Verma,47179,False,0,0.0,N/A
+10096,Customer_10096,Karnataka,AEIB-KA,Amit Verma,145216,True,298558,23884.64,Not Paying
+10097,Customer_10097,Karnataka,AEIB-KA,Amit Verma,138267,True,206759,16540.72,Not Paying
+10098,Customer_10098,Karnataka,AEIB-KA,Amit Verma,102594,True,191172,15293.76,Not Paying
+10099,Customer_10099,Karnataka,AEIB-KA,Amit Verma,48723,True,358000,28640.0,Paying
+10100,Customer_10100,Karnataka,AEIB-KA,Amit Verma,157022,True,279330,22346.4,Paying
+10101,Customer_10101,Karnataka,AEIB-KA,Amit Verma,51614,True,361891,28951.28,Not Paying
+10102,Customer_10102,Karnataka,AEIB-KA,Amit Verma,17232,False,0,0.0,N/A
+10103,Customer_10103,Karnataka,AEIB-KA,Amit Verma,108941,True,225311,18024.88,Not Paying
+10104,Customer_10104,Karnataka,AEIB-KA,Amit Verma,108563,False,0,0.0,N/A
+10105,Customer_10105,Karnataka,AEIB-KA,Amit Verma,173284,False,0,0.0,N/A
+10106,Customer_10106,Karnataka,AEIB-KA,Amit Verma,169426,True,319745,25579.600000000002,Not Paying
+10107,Customer_10107,Karnataka,AEIB-KA,Amit Verma,16059,True,464482,37158.56,Not Paying
+10108,Customer_10108,Karnataka,AEIB-KA,Amit Verma,141482,True,132357,10588.56,Paying
+10109,Customer_10109,Karnataka,AEIB-KA,Amit Verma,99123,False,0,0.0,N/A
+10110,Customer_10110,Karnataka,AEIB-KA,Amit Verma,28314,False,0,0.0,N/A
+10111,Customer_10111,Karnataka,AEIB-KA,Amit Verma,30025,False,0,0.0,N/A
+10112,Customer_10112,Karnataka,AEIB-KA,Amit Verma,36838,False,0,0.0,N/A
+10113,Customer_10113,Karnataka,AEIB-KA,Amit Verma,96802,False,0,0.0,N/A
+10114,Customer_10114,Karnataka,AEIB-KA,Amit Verma,147906,True,123929,9914.32,Paying
+10115,Customer_10115,Karnataka,AEIB-KA,Amit Verma,52993,True,414199,33135.92,Paying
+10116,Customer_10116,Karnataka,AEIB-KA,Amit Verma,135061,False,0,0.0,N/A
+10117,Customer_10117,Karnataka,AEIB-KA,Amit Verma,20352,True,326441,26115.28,Paying
+10118,Customer_10118,Karnataka,AEIB-KA,Amit Verma,17003,False,0,0.0,N/A
+10119,Customer_10119,Karnataka,AEIB-KA,Amit Verma,178511,False,0,0.0,N/A
+10120,Customer_10120,Karnataka,AEIB-KA,Amit Verma,86858,False,0,0.0,N/A
+10121,Customer_10121,Karnataka,AEIB-KA,Amit Verma,57280,False,0,0.0,N/A
+10122,Customer_10122,Karnataka,AEIB-KA,Amit Verma,89631,False,0,0.0,N/A
+10123,Customer_10123,Karnataka,AEIB-KA,Amit Verma,40428,True,273575,21886.0,Paying
+10124,Customer_10124,Karnataka,AEIB-KA,Amit Verma,143806,True,336049,26883.920000000002,Not Paying
+10125,Customer_10125,Karnataka,AEIB-KA,Amit Verma,81473,False,0,0.0,N/A
+10126,Customer_10126,Karnataka,AEIB-KA,Amit Verma,71589,True,348805,27904.4,Not Paying
+10127,Customer_10127,Karnataka,AEIB-KA,Amit Verma,81723,False,0,0.0,N/A
+10128,Customer_10128,Karnataka,AEIB-KA,Amit Verma,131983,True,343001,27440.08,Paying
+10129,Customer_10129,Karnataka,AEIB-KA,Amit Verma,136923,True,463393,37071.44,Paying
+10130,Customer_10130,Karnataka,AEIB-KA,Amit Verma,127741,True,271310,21704.8,Paying
+10131,Customer_10131,Tamil Nadu,AEIB-TN,Sneha Gupta,27036,True,132032,10562.56,Not Paying
+10132,Customer_10132,Tamil Nadu,AEIB-TN,Sneha Gupta,87570,False,0,0.0,N/A
+10133,Customer_10133,Tamil Nadu,AEIB-TN,Sneha Gupta,84403,True,250596,20047.68,Paying
+10134,Customer_10134,Tamil Nadu,AEIB-TN,Sneha Gupta,67729,False,0,0.0,N/A
+10135,Customer_10135,Tamil Nadu,AEIB-TN,Sneha Gupta,24055,True,404124,32329.920000000002,Paying
+10136,Customer_10136,Tamil Nadu,AEIB-TN,Sneha Gupta,41209,True,129073,10325.84,Not Paying
+10137,Customer_10137,Tamil Nadu,AEIB-TN,Sneha Gupta,76299,True,283274,22661.920000000002,Not Paying
+10138,Customer_10138,Tamil Nadu,AEIB-TN,Sneha Gupta,19705,False,0,0.0,N/A
+10139,Customer_10139,Tamil Nadu,AEIB-TN,Sneha Gupta,30274,True,304789,24383.12,Paying
+10140,Customer_10140,Tamil Nadu,AEIB-TN,Sneha Gupta,58251,False,0,0.0,N/A
+10141,Customer_10141,Tamil Nadu,AEIB-TN,Sneha Gupta,18729,True,119658,9572.64,Paying
+10142,Customer_10142,Tamil Nadu,AEIB-TN,Sneha Gupta,162944,True,192537,15402.960000000001,Not Paying
+10143,Customer_10143,Tamil Nadu,AEIB-TN,Sneha Gupta,111693,True,345518,27641.440000000002,Paying
+10144,Customer_10144,Tamil Nadu,AEIB-TN,Sneha Gupta,50302,True,428563,34285.04,Not Paying
+10145,Customer_10145,Tamil Nadu,AEIB-TN,Sneha Gupta,20835,False,0,0.0,N/A
+10146,Customer_10146,Tamil Nadu,AEIB-TN,Sneha Gupta,109550,False,0,0.0,N/A
+10147,Customer_10147,Tamil Nadu,AEIB-TN,Sneha Gupta,43111,False,0,0.0,N/A
+10148,Customer_10148,Tamil Nadu,AEIB-TN,Sneha Gupta,106723,True,195353,15628.24,Not Paying
+10149,Customer_10149,Tamil Nadu,AEIB-TN,Sneha Gupta,65935,True,401708,32136.64,Paying
+10150,Customer_10150,Tamil Nadu,AEIB-TN,Sneha Gupta,186931,True,123064,9845.12,Not Paying
+10151,Customer_10151,Tamil Nadu,AEIB-TN,Sneha Gupta,133089,False,0,0.0,N/A
+10152,Customer_10152,Tamil Nadu,AEIB-TN,Sneha Gupta,73219,True,253603,20288.24,Paying
+10153,Customer_10153,Tamil Nadu,AEIB-TN,Sneha Gupta,126550,True,220438,17635.04,Not Paying
+10154,Customer_10154,Tamil Nadu,AEIB-TN,Sneha Gupta,42292,True,499202,39936.16,Not Paying
+10155,Customer_10155,Tamil Nadu,AEIB-TN,Sneha Gupta,35441,True,181165,14493.2,Not Paying
+10156,Customer_10156,Tamil Nadu,AEIB-TN,Sneha Gupta,40235,True,55037,4402.96,Not Paying
+10157,Customer_10157,Tamil Nadu,AEIB-TN,Sneha Gupta,182103,False,0,0.0,N/A
+10158,Customer_10158,Tamil Nadu,AEIB-TN,Sneha Gupta,81478,False,0,0.0,N/A
+10159,Customer_10159,Tamil Nadu,AEIB-TN,Sneha Gupta,192890,True,145597,11647.76,Not Paying
+10160,Customer_10160,Tamil Nadu,AEIB-TN,Sneha Gupta,112234,True,249898,19991.84,Not Paying
+10161,Customer_10161,Tamil Nadu,AEIB-TN,Sneha Gupta,170402,True,206108,16488.64,Not Paying
+10162,Customer_10162,Rajasthan,AEIB-RJ,Vikram Joshi,164322,True,297598,23807.84,Paying
+10163,Customer_10163,Rajasthan,AEIB-RJ,Vikram Joshi,135621,False,0,0.0,N/A
+10164,Customer_10164,Rajasthan,AEIB-RJ,Vikram Joshi,134018,False,0,0.0,N/A
+10165,Customer_10165,Rajasthan,AEIB-RJ,Vikram Joshi,8466,False,0,0.0,N/A
+10166,Customer_10166,Rajasthan,AEIB-RJ,Vikram Joshi,75238,True,229445,18355.600000000002,Paying
+10167,Customer_10167,Rajasthan,AEIB-RJ,Vikram Joshi,52273,True,446203,35696.24,Paying
+10168,Customer_10168,Rajasthan,AEIB-RJ,Vikram Joshi,33039,False,0,0.0,N/A
+10169,Customer_10169,Rajasthan,AEIB-RJ,Vikram Joshi,174641,False,0,0.0,N/A
+10170,Customer_10170,Rajasthan,AEIB-RJ,Vikram Joshi,147172,True,469035,37522.8,Paying
+10171,Customer_10171,Rajasthan,AEIB-RJ,Vikram Joshi,13292,True,440322,35225.76,Paying
+10172,Customer_10172,Rajasthan,AEIB-RJ,Vikram Joshi,95286,True,201201,16096.08,Paying
+10173,Customer_10173,Rajasthan,AEIB-RJ,Vikram Joshi,178801,True,137496,10999.68,Not Paying
+10174,Customer_10174,Rajasthan,AEIB-RJ,Vikram Joshi,138245,True,450090,36007.200000000004,Not Paying
+10175,Customer_10175,Rajasthan,AEIB-RJ,Vikram Joshi,94208,True,445973,35677.840000000004,Paying
+10176,Customer_10176,Rajasthan,AEIB-RJ,Vikram Joshi,28842,False,0,0.0,N/A
+10177,Customer_10177,Rajasthan,AEIB-RJ,Vikram Joshi,126532,False,0,0.0,N/A
+10178,Customer_10178,Rajasthan,AEIB-RJ,Vikram Joshi,179936,True,414316,33145.28,Not Paying
+10179,Customer_10179,Rajasthan,AEIB-RJ,Vikram Joshi,141002,True,414134,33130.72,Not Paying
+10180,Customer_10180,Rajasthan,AEIB-RJ,Vikram Joshi,90371,True,443316,35465.28,Paying
+10181,Customer_10181,Rajasthan,AEIB-RJ,Vikram Joshi,79573,False,0,0.0,N/A
+10182,Customer_10182,Rajasthan,AEIB-RJ,Vikram Joshi,30247,True,74813,5985.04,Not Paying
+10183,Customer_10183,Rajasthan,AEIB-RJ,Vikram Joshi,52354,True,288873,23109.84,Not Paying
+10184,Customer_10184,Rajasthan,AEIB-RJ,Vikram Joshi,27957,True,473065,37845.200000000004,Paying
+10185,Customer_10185,Rajasthan,AEIB-RJ,Vikram Joshi,73727,True,178385,14270.800000000001,Not Paying
+10186,Customer_10186,Rajasthan,AEIB-RJ,Vikram Joshi,44308,False,0,0.0,N/A
+10187,Customer_10187,Rajasthan,AEIB-RJ,Vikram Joshi,36739,True,485006,38800.48,Paying
+10188,Customer_10188,Rajasthan,AEIB-RJ,Vikram Joshi,135861,False,0,0.0,N/A
+10189,Customer_10189,Rajasthan,AEIB-RJ,Vikram Joshi,157746,False,0,0.0,N/A
+10190,Customer_10190,Rajasthan,AEIB-RJ,Vikram Joshi,6337,True,263379,21070.32,Not Paying
+10191,Customer_10191,Rajasthan,AEIB-RJ,Vikram Joshi,32342,True,358922,28713.760000000002,Paying
+10192,Customer_10192,Rajasthan,AEIB-RJ,Vikram Joshi,192409,True,361646,28931.68,Paying
+10193,Customer_10193,Rajasthan,AEIB-RJ,Vikram Joshi,156171,True,87028,6962.24,Paying
+10194,Customer_10194,Uttar Pradesh,AEIB-UP,Anjali Rao,139583,False,0,0.0,N/A
+10195,Customer_10195,Uttar Pradesh,AEIB-UP,Anjali Rao,170778,False,0,0.0,N/A
+10196,Customer_10196,Uttar Pradesh,AEIB-UP,Anjali Rao,161401,True,341563,27325.04,Paying
+10197,Customer_10197,Uttar Pradesh,AEIB-UP,Anjali Rao,135544,True,81649,6531.92,Not Paying
+10198,Customer_10198,Uttar Pradesh,AEIB-UP,Anjali Rao,190501,True,354942,28395.36,Paying
+10199,Customer_10199,Uttar Pradesh,AEIB-UP,Anjali Rao,33960,False,0,0.0,N/A
+10200,Customer_10200,Uttar Pradesh,AEIB-UP,Anjali Rao,32260,False,0,0.0,N/A
+10201,Customer_10201,Uttar Pradesh,AEIB-UP,Anjali Rao,15738,True,172857,13828.56,Paying
+10202,Customer_10202,Uttar Pradesh,AEIB-UP,Anjali Rao,43464,False,0,0.0,N/A
+10203,Customer_10203,Uttar Pradesh,AEIB-UP,Anjali Rao,15825,True,363095,29047.600000000002,Not Paying
+10204,Customer_10204,Uttar Pradesh,AEIB-UP,Anjali Rao,112568,False,0,0.0,N/A
+10205,Customer_10205,Uttar Pradesh,AEIB-UP,Anjali Rao,17404,True,351165,28093.2,Paying
+10206,Customer_10206,Uttar Pradesh,AEIB-UP,Anjali Rao,80955,True,295594,23647.52,Not Paying
+10207,Customer_10207,Uttar Pradesh,AEIB-UP,Anjali Rao,108709,True,410020,32801.6,Paying
+10208,Customer_10208,Uttar Pradesh,AEIB-UP,Anjali Rao,114889,False,0,0.0,N/A
+10209,Customer_10209,Uttar Pradesh,AEIB-UP,Anjali Rao,73816,False,0,0.0,N/A
+10210,Customer_10210,Uttar Pradesh,AEIB-UP,Anjali Rao,119716,True,348164,27853.12,Paying
+10211,Customer_10211,Uttar Pradesh,AEIB-UP,Anjali Rao,52042,True,188498,15079.84,Paying
+10212,Customer_10212,Uttar Pradesh,AEIB-UP,Anjali Rao,134900,False,0,0.0,N/A
+10213,Customer_10213,Uttar Pradesh,AEIB-UP,Anjali Rao,5612,True,107961,8636.880000000001,Paying
+10214,Customer_10214,Uttar Pradesh,AEIB-UP,Anjali Rao,91028,True,339189,27135.12,Not Paying
+10215,Customer_10215,Uttar Pradesh,AEIB-UP,Anjali Rao,145192,True,386794,30943.52,Not Paying
+10216,Customer_10216,Uttar Pradesh,AEIB-UP,Anjali Rao,192609,True,498276,39862.08,Paying
+10217,Customer_10217,Uttar Pradesh,AEIB-UP,Anjali Rao,6608,False,0,0.0,N/A
+10218,Customer_10218,Uttar Pradesh,AEIB-UP,Anjali Rao,78255,True,427116,34169.28,Paying
+10219,Customer_10219,Uttar Pradesh,AEIB-UP,Anjali Rao,147994,False,0,0.0,N/A
+10220,Customer_10220,Uttar Pradesh,AEIB-UP,Anjali Rao,53851,True,394064,31525.12,Paying
+10221,Customer_10221,Uttar Pradesh,AEIB-UP,Anjali Rao,199438,False,0,0.0,N/A
+10222,Customer_10222,Uttar Pradesh,AEIB-UP,Anjali Rao,179521,True,108530,8682.4,Paying
+10223,Customer_10223,Uttar Pradesh,AEIB-UP,Anjali Rao,117882,True,456134,36490.72,Paying
+10224,Customer_10224,Uttar Pradesh,AEIB-UP,Anjali Rao,43372,False,0,0.0,N/A
+10225,Customer_10225,Uttar Pradesh,AEIB-UP,Anjali Rao,176714,True,150111,12008.880000000001,Paying
+10226,Customer_10226,Uttar Pradesh,AEIB-UP,Anjali Rao,150953,True,479957,38396.56,Paying
+10227,Customer_10227,Uttar Pradesh,AEIB-UP,Anjali Rao,66185,True,410317,32825.36,Paying
+10228,Customer_10228,Uttar Pradesh,AEIB-UP,Anjali Rao,46574,True,112834,9026.72,Not Paying
+10229,Customer_10229,Uttar Pradesh,AEIB-UP,Anjali Rao,89338,True,340050,27204.0,Paying
+10230,Customer_10230,Uttar Pradesh,AEIB-UP,Anjali Rao,108069,True,141080,11286.4,Not Paying
+10231,Customer_10231,Uttar Pradesh,AEIB-UP,Anjali Rao,93692,False,0,0.0,N/A
+10232,Customer_10232,Uttar Pradesh,AEIB-UP,Anjali Rao,123977,True,192398,15391.84,Paying
+10233,Customer_10233,Uttar Pradesh,AEIB-UP,Anjali Rao,183735,True,492488,39399.04,Paying
+10234,Customer_10234,Uttar Pradesh,AEIB-UP,Anjali Rao,52449,False,0,0.0,N/A
+10235,Customer_10235,Uttar Pradesh,AEIB-UP,Anjali Rao,41444,True,192549,15403.92,Paying
+10236,Customer_10236,Uttar Pradesh,AEIB-UP,Anjali Rao,116204,False,0,0.0,N/A
+10237,Customer_10237,Uttar Pradesh,AEIB-UP,Anjali Rao,77862,False,0,0.0,N/A
+10238,Customer_10238,Uttar Pradesh,AEIB-UP,Anjali Rao,116551,False,0,0.0,N/A
+10239,Customer_10239,Uttar Pradesh,AEIB-UP,Anjali Rao,86521,False,0,0.0,N/A
+10240,Customer_10240,Uttar Pradesh,AEIB-UP,Anjali Rao,171384,True,344974,27597.920000000002,Paying
+10241,Customer_10241,Bihar,AEIB-BR,Manoj Patel,166373,True,285866,22869.28,Not Paying
+10242,Customer_10242,Bihar,AEIB-BR,Manoj Patel,128283,True,472483,37798.64,Not Paying
+10243,Customer_10243,Bihar,AEIB-BR,Manoj Patel,104812,True,298268,23861.44,Paying
+10244,Customer_10244,Bihar,AEIB-BR,Manoj Patel,180857,False,0,0.0,N/A
+10245,Customer_10245,Bihar,AEIB-BR,Manoj Patel,170862,True,443808,35504.64,Not Paying
+10246,Customer_10246,Bihar,AEIB-BR,Manoj Patel,156255,True,115276,9222.08,Not Paying
+10247,Customer_10247,Bihar,AEIB-BR,Manoj Patel,42437,False,0,0.0,N/A
+10248,Customer_10248,Bihar,AEIB-BR,Manoj Patel,15096,True,82884,6630.72,Not Paying
+10249,Customer_10249,Bihar,AEIB-BR,Manoj Patel,45703,True,433928,34714.24,Paying
+10250,Customer_10250,Bihar,AEIB-BR,Manoj Patel,157721,True,217433,17394.64,Paying
+10251,Customer_10251,Bihar,AEIB-BR,Manoj Patel,190534,True,368670,29493.600000000002,Not Paying
+10252,Customer_10252,Bihar,AEIB-BR,Manoj Patel,195340,True,379543,30363.440000000002,Paying
+10253,Customer_10253,Bihar,AEIB-BR,Manoj Patel,78735,False,0,0.0,N/A
+10254,Customer_10254,Bihar,AEIB-BR,Manoj Patel,170730,False,0,0.0,N/A
+10255,Customer_10255,Bihar,AEIB-BR,Manoj Patel,104920,False,0,0.0,N/A
+10256,Customer_10256,Bihar,AEIB-BR,Manoj Patel,58743,True,236327,18906.16,Paying
+10257,Customer_10257,Bihar,AEIB-BR,Manoj Patel,82799,True,343154,27452.32,Paying
+10258,Customer_10258,Bihar,AEIB-BR,Manoj Patel,159275,False,0,0.0,N/A
+10259,Customer_10259,Bihar,AEIB-BR,Manoj Patel,17912,True,255237,20418.96,Not Paying
+10260,Customer_10260,Bihar,AEIB-BR,Manoj Patel,60397,True,356440,28515.2,Paying
+10261,Customer_10261,Bihar,AEIB-BR,Manoj Patel,154201,False,0,0.0,N/A
+10262,Customer_10262,Bihar,AEIB-BR,Manoj Patel,160600,False,0,0.0,N/A
+10263,Customer_10263,Bihar,AEIB-BR,Manoj Patel,90022,True,92756,7420.4800000000005,Paying
+10264,Customer_10264,Bihar,AEIB-BR,Manoj Patel,37891,False,0,0.0,N/A
+10265,Customer_10265,Bihar,AEIB-BR,Manoj Patel,175300,True,199085,15926.800000000001,Not Paying
+10266,Customer_10266,Bihar,AEIB-BR,Manoj Patel,76208,True,210435,16834.8,Paying
+10267,Customer_10267,Bihar,AEIB-BR,Manoj Patel,117699,True,293937,23514.96,Paying
+10268,Customer_10268,Bihar,AEIB-BR,Manoj Patel,127094,False,0,0.0,N/A
+10269,Customer_10269,Bihar,AEIB-BR,Manoj Patel,113760,True,106487,8518.960000000001,Not Paying
+10270,Customer_10270,Bihar,AEIB-BR,Manoj Patel,193924,False,0,0.0,N/A
+10271,Customer_10271,Bihar,AEIB-BR,Manoj Patel,131152,True,152181,12174.48,Not Paying
+10272,Customer_10272,Bihar,AEIB-BR,Manoj Patel,97607,False,0,0.0,N/A
+10273,Customer_10273,Bihar,AEIB-BR,Manoj Patel,118798,True,109855,8788.4,Not Paying
+10274,Customer_10274,Bihar,AEIB-BR,Manoj Patel,88241,True,86720,6937.6,Not Paying
+10275,Customer_10275,Bihar,AEIB-BR,Manoj Patel,57677,True,269887,21590.96,Paying
+10276,Customer_10276,Bihar,AEIB-BR,Manoj Patel,196853,True,458481,36678.48,Not Paying
+10277,Customer_10277,Bihar,AEIB-BR,Manoj Patel,162815,False,0,0.0,N/A
+10278,Customer_10278,Bihar,AEIB-BR,Manoj Patel,81999,False,0,0.0,N/A
+10279,Customer_10279,Bihar,AEIB-BR,Manoj Patel,124392,False,0,0.0,N/A
+10280,Customer_10280,Bihar,AEIB-BR,Manoj Patel,112925,True,487512,39000.96,Paying
+10281,Customer_10281,Bihar,AEIB-BR,Manoj Patel,162957,False,0,0.0,N/A
+10282,Customer_10282,Bihar,AEIB-BR,Manoj Patel,13804,True,148875,11910.0,Paying
+10283,Customer_10283,West Bengal,AEIB-WB,Neha Singh,121997,True,72616,5809.28,Not Paying
+10284,Customer_10284,West Bengal,AEIB-WB,Neha Singh,43607,False,0,0.0,N/A
+10285,Customer_10285,West Bengal,AEIB-WB,Neha Singh,14481,True,245505,19640.4,Paying
+10286,Customer_10286,West Bengal,AEIB-WB,Neha Singh,80358,True,496339,39707.12,Not Paying
+10287,Customer_10287,West Bengal,AEIB-WB,Neha Singh,6291,True,478113,38249.04,Paying
+10288,Customer_10288,West Bengal,AEIB-WB,Neha Singh,17230,True,193252,15460.16,Paying
+10289,Customer_10289,West Bengal,AEIB-WB,Neha Singh,144130,False,0,0.0,N/A
+10290,Customer_10290,West Bengal,AEIB-WB,Neha Singh,25441,False,0,0.0,N/A
+10291,Customer_10291,West Bengal,AEIB-WB,Neha Singh,119871,True,54207,4336.56,Paying
+10292,Customer_10292,West Bengal,AEIB-WB,Neha Singh,115562,False,0,0.0,N/A
+10293,Customer_10293,West Bengal,AEIB-WB,Neha Singh,86776,False,0,0.0,N/A
+10294,Customer_10294,West Bengal,AEIB-WB,Neha Singh,182689,False,0,0.0,N/A
+10295,Customer_10295,West Bengal,AEIB-WB,Neha Singh,19937,False,0,0.0,N/A
+10296,Customer_10296,West Bengal,AEIB-WB,Neha Singh,172987,True,307754,24620.32,Not Paying
+10297,Customer_10297,West Bengal,AEIB-WB,Neha Singh,50486,True,472658,37812.64,Not Paying
+10298,Customer_10298,West Bengal,AEIB-WB,Neha Singh,125185,False,0,0.0,N/A
+10299,Customer_10299,West Bengal,AEIB-WB,Neha Singh,93910,True,71863,5749.04,Paying
+10300,Customer_10300,West Bengal,AEIB-WB,Neha Singh,179771,False,0,0.0,N/A
+10301,Customer_10301,West Bengal,AEIB-WB,Neha Singh,25381,False,0,0.0,N/A
+10302,Customer_10302,West Bengal,AEIB-WB,Neha Singh,64843,False,0,0.0,N/A
+10303,Customer_10303,West Bengal,AEIB-WB,Neha Singh,41151,True,393292,31463.36,Paying
+10304,Customer_10304,West Bengal,AEIB-WB,Neha Singh,101068,False,0,0.0,N/A
+10305,Customer_10305,West Bengal,AEIB-WB,Neha Singh,37214,True,417206,33376.48,Not Paying
+10306,Customer_10306,West Bengal,AEIB-WB,Neha Singh,119382,True,217148,17371.84,Not Paying
+10307,Customer_10307,West Bengal,AEIB-WB,Neha Singh,103469,True,157598,12607.84,Not Paying
+10308,Customer_10308,West Bengal,AEIB-WB,Neha Singh,120211,True,372171,29773.68,Not Paying
+10309,Customer_10309,West Bengal,AEIB-WB,Neha Singh,51783,True,326370,26109.600000000002,Not Paying
+10310,Customer_10310,West Bengal,AEIB-WB,Neha Singh,18596,True,258600,20688.0,Not Paying
+10311,Customer_10311,West Bengal,AEIB-WB,Neha Singh,53008,False,0,0.0,N/A
+10312,Customer_10312,West Bengal,AEIB-WB,Neha Singh,15716,True,372385,29790.8,Not Paying
+10313,Customer_10313,West Bengal,AEIB-WB,Neha Singh,136203,False,0,0.0,N/A
+10314,Customer_10314,West Bengal,AEIB-WB,Neha Singh,119901,True,313758,25100.64,Not Paying
+10315,Customer_10315,West Bengal,AEIB-WB,Neha Singh,42708,False,0,0.0,N/A
+10316,Customer_10316,West Bengal,AEIB-WB,Neha Singh,133779,False,0,0.0,N/A
+10317,Customer_10317,West Bengal,AEIB-WB,Neha Singh,26922,True,427488,34199.04,Not Paying
